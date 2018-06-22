@@ -1,0 +1,19 @@
+* { 
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+ }
+ body{
+    background: #191919;
+ }
+canvas { 
+    background: #191919;
+    display: block;
+    margin: 0 auto;
+ }
+ .game-panel {
+     min-width: 100%;
+     min-height: 100%;
+     overflow: hidden;
+ }
+ 
